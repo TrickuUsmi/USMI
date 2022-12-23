@@ -1,0 +1,2 @@
+import USMI
+USMI.fia()
